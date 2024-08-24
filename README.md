@@ -13,6 +13,7 @@
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white).
+![C](https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=C&logoColor=white).
 
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Junior2099&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
