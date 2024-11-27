@@ -1,6 +1,7 @@
 ### Olá meu nome é José 👉
 
 ## Bem vindo(a) ao meu perfil profissional 
+### Contato Profissional (11) 9 8991-9526
 
 ## possuo experiência com:
 
